@@ -5,9 +5,9 @@ Date: 07/16/2022<br>
 <h3>Hi! This is Natanael</h3>
 
 In this repository you will find <strong>almost</strong> all the assignments of <strong>CSE101.</strong> I hope it helps future students at BYU-Pathway Connect<br>
-Each folder contains the Checkpoint, Team and Prove assignments of every week.
+Each folder contains the Checkpoint, Team and Prove assignments of every week.<br>
 • I finished this course with an A+ grade.<br>
-• All assignments are done by ME during the course, these are not the only way to do accomplish it.<br> 
+• All assignments are done by <strong>me</strong> during the course, these are not the only way to accomplish it.<br> 
 • All assignments passed the score and were checked<br>
 • Some assignments don't have the stretch challange done since I was lazy hahah, but most do.<br>
 
