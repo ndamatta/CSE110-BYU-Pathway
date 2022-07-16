@@ -1,0 +1,88 @@
+Genesis:50:Old Testament
+Exodus:40:Old Testament
+Leviticus:27:Old Testament
+Numbers:36:Old Testament
+Deuteronomy:34:Old Testament
+Joshua:24:Old Testament
+Judges:21:Old Testament
+Ruth:4:Old Testament
+1 Samuel:31:Old Testament
+2 Samuel:24:Old Testament
+1 Kings:22:Old Testament
+2 Kings:25:Old Testament
+1 Chronicles:29:Old Testament
+2 Chronicles:36:Old Testament
+Ezra:10:Old Testament
+Nehemiah:13:Old Testament
+Esther:10:Old Testament
+Job:42:Old Testament
+Psalms:150:Old Testament
+Proverbs:31:Old Testament
+Ecclesiastes:12:Old Testament
+Song of Solomon:8:Old Testament
+Isaiah:66:Old Testament
+Jeremiah:52:Old Testament
+Lamentations:5:Old Testament
+Ezekiel:48:Old Testament
+Daniel:12:Old Testament
+Hosea:14:Old Testament
+Joel:3:Old Testament
+Amos:9:Old Testament
+Obadiah:1:Old Testament
+Jonah:4:Old Testament
+Micah:7:Old Testament
+Nahum:3:Old Testament
+Habakkuk:3:Old Testament
+Zephaniah:3:Old Testament
+Haggai:2:Old Testament
+Zechariah:14:Old Testament
+Malachi:4:Old Testament
+Matthew:28:New Testament
+Mark:16:New Testament
+Luke:24:New Testament
+John:21:New Testament
+Acts:28:New Testament
+Romans:16:New Testament
+1 Corinthians:16:New Testament
+2 Corinthians:13:New Testament
+Galatians:6:New Testament
+Ephesians:6:New Testament
+Philippians:4:New Testament
+Colossians:4:New Testament
+1 Thessalonians:5:New Testament
+2 Thessalonians:3:New Testament
+1 Timothy:6:New Testament
+2 Timothy:4:New Testament
+Titus:3:New Testament
+Philemon:1:New Testament
+Hebrews:13:New Testament
+James:5:New Testament
+1 Peter:5:New Testament
+2 Peter:3:New Testament
+1 John:5:New Testament
+2 John:1:New Testament
+3 John:1:New Testament
+Jude:1:New Testament
+Revelation:22:New Testament
+1 Nephi:22:Book of Mormon
+2 Nephi:23:Book of Mormon
+Jacob:7:Book of Mormon
+Enos:1:Book of Mormon
+Jarom:1:Book of Mormon
+Omni:1:Book of Mormon
+Words of Mormon:1:Book of Mormon
+Mosiah:29:Book of Mormon
+Alma:63:Book of Mormon
+Helaman:16:Book of Mormon
+3 Nephi:30:Book of Mormon
+4 Nephi:1:Book of Mormon
+Mormon:9:Book of Mormon
+Ether:15:Book of Mormon
+Moroni:10:Book of Mormon
+Doctrine and Covenants:138:Doctrine and Covenants
+Official Declaration:2:Doctrine and Covenants
+Moses:8:Pearl of Great Price
+Abraham:5:Pearl of Great Price
+Joseph Smith-Matthew:1:Pearl of Great Price
+Joseph Smith-History:1:Pearl of Great Price
+Articles of Faith:1:Pearl of Great Price
