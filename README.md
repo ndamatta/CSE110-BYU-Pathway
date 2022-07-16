@@ -1,6 +1,6 @@
 # BYU-Pathway Applied Technology<br>
 Date: 07/16/2022<br>
-[CSEPC 110] Programming Building Blocks: Assignments
+[CSE 110] Programming Building Blocks: Assignments
 
 <h3>Hi! This is Natanael</h3>
 
