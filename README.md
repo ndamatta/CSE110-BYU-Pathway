@@ -5,6 +5,7 @@ Date: 07/16/2022<br>
 <h3>Hi! This is Natanael</h3>
 
 In this repository you will find <strong>almost</strong> all the assignments of <strong>CSE101.</strong> I hope it helps future students at BYU-Pathway Connect<br>
+Each folder contains the Checkpoint, Team and Prove assignments of every week.
 • I finished this course with an A+ grade.<br>
 • All assignments are done by ME during the course, these are not the only way to do accomplish it.<br> 
 • All assignments passed the score and were checked<br>
@@ -21,5 +22,5 @@ This repository has the purpose that, if any student feels stuck in a task, he c
 This course really helped me to realize how much I like programming and I hope it does the same with you, do your best to learn and complete the assignments, it will be a solido foundation for next courses.
 This is an inspired course from the Church and all the instructors try their best to help us to learn and achieve our goals.
 
-Thanks for reading!
+Thanks for reading!<br>
 Natanael.
