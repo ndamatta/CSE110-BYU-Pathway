@@ -1,11 +1,12 @@
 # BYU-Pathway Applied Technology<br>
 Date: 07/16/2022<br>
-[CSE 110] Programming Building Blocks: Assignments
+[CSE 110] 🖥️ Programming Building Blocks: Assignments
 
 <h3>Hi! This is <a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a></h3>
 
 In this repository you will find <b>almost</b> all the assignments of <strong>CSE101.</strong> I hope it helps future students at BYU-Pathway Connect<br>
-Each folder contains the Checkpoint, Team and Prove assignments of every week.<br>
+Each folder contains the Checkpoint, Team and Prove assignments of every week. 
+<br>
 • I finished this course with an A+ grade.<br>
 • All assignments are done by <b>me</b> during the course, these are not the only way to accomplish it.<br> 
 • All assignments passed the score and were checked<br>
