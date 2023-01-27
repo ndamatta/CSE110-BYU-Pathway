@@ -20,8 +20,8 @@ Please feel free to make a pull request (changes) if you consider that there is 
 • I <strong>REJECT</strong> any charge of encouraging students to cheat, knowing that it is against <a href="https://dfkpq46c1l9o7.cloudfront.net/pdfs/148e250c14f5be811f0c42353b9d46dc.pdf">BYU's Honor Code.</a><br>
 • This repository has the purpose that, if any student feels stuck in a task, he can have an idea of what steps to take and how the operation is carried out.<br>
 
-This course really helped me to realize how much I like programming and I hope it does the same for you. Do your best to learn, understand and complete the assignments, it will be a solid foundation for next courses.<br>
-This is an inspired course from the Church and all the instructors try their best to help us to learn and achieve our goals.
+This course helped me to realize how much I like programming, and I hope it does the same for you. Try your best to learn, understand, and complete the assignments. It will be a solid foundation for the following courses.
+This is an inspired course from the Church. All the instructors try their best to help us to learn and achieve our goals.
 
 Thanks for reading!<br>
 <a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a> :)
