@@ -14,7 +14,7 @@ Each folder contains the Checkpoint, Team and Prove assignments of every week.
 
 Please feel free to make a pull request (changes) if you consider that there is something to update or improve. I tried to do my best and be as tidy as possible.<br>
 
-<b>DISCLAIMER::</b><br>
+<b>DISCLAIMER:</b><br>
 • Follow your instructor's advices in EVERY assignment. Before checking for something here, go and ask help to your classmates. They're really cool and are always willing to help<br> 
 • I <strong>DON'T</strong> encourage cheating on assignments, if you are really doing the course it is to learn, and these assignments help you a lot with that.<br>
 • I <strong>REJECT</strong> any charge of encouraging students to cheat, knowing that it is against <a href="https://dfkpq46c1l9o7.cloudfront.net/pdfs/148e250c14f5be811f0c42353b9d46dc.pdf">BYU's Honor Code.</a><br>
