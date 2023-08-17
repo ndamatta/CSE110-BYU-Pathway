@@ -1,6 +1,3 @@
-# 12 Prove: Assignment - Data Analysis
-
-
 with open("life-expectancy.csv") as file:
     next(file)
 
