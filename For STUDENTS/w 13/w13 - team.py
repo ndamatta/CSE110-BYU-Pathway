@@ -26,15 +26,20 @@ while user_input.lower() != "quit":
     print("\nShapes: \n1. Square \n2. Rectangle \n3. Circle")
     user_input = input("Type a shape:")
 
-    if user_input.lower() == "square":
-        number1 = int(input("What's the area of the square?: "))
-        print(f"The area of the square is: {compute_area_square(number1)}")
+    match user_input.lower():
 
-    elif user_input.lower() == "rectangle":
-        number1 = int(input("What's the lenght of the square?: "))
-        number2 = int(input("What's the width of the square?: "))
-        print(f"The area of the rectangle is: {compute_area_rectangle(number1,number2)}")
-
-    elif user_input.lower() == "circle":
-        number1 = int(input("What's the radius of the circle?: "))
-        print(f"The area of the circle is: {compute_area_circle(number1)}")
+        case "square":
+            number1 = int(input("What's the area of the square?: "))
+            print()
+            print(f"The area of the square is: {compute_area_square(number1)}")
+        
+        case "rectangle":
+            number1 = int(input("What's the lenght of the square?: "))
+            number2 = int(input("What's the width of the square?: "))
+            print()
+            print(f"The area of the rectangle is: {compute_area_rectangle(number1,number2)}")
+  
+        case"circle":
+            number1 = int(input("What's the radius of the circle?: "))
+            print()
+            print(f"The area of the circle is: {compute_area_circle(number1)}")
