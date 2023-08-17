@@ -1,5 +1,3 @@
-# 13 Teach: Team Activity
-
 #FUNCTIONS
 def compute_area_square(area):
     return area ** 2
