@@ -1,27 +1,15 @@
-# BYU-Pathway Applied Technology<br>
-Date: 07/16/2022<br>
-[CSE 110] 🖥️ Programming Building Blocks: Assignments
+<picture><img src="https://github.com/ndamatta/CSE111-BYU-Idaho/assets/105658793/ae948b5f-b9d3-46e5-8df8-002d5c89f2d7" alt="Banner-img"></picture>
 
-<h3>Hi! This is <a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a></h3>
+# BYU-Idaho: Web and Computer Programming<br> <i>Major: Applied Technology</i>
+<picture><img src="https://img.shields.io/badge/2022-blue?style=for-the-badge&label=JUL"></picture>     <a href="https://www.linkedin.com/in/natanael-damatta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-In this repository you will find <b>almost</b> all the assignments of <strong>CSE101.</strong> I hope it helps future students at BYU-Pathway Connect<br>
-Each folder contains the Checkpoint, Team and Prove assignments of every week. 
+<picture><img src="https://github.com/ndamatta/CSE110-BYU-Pathway/assets/105658793/27eabe6f-846c-4fd7-ab35-be4801f97d1c"></picture><br>
+
+<h3>Hello! I'm <a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a></h3>
+This repository is organized it two folders. You can <strong>click</strong> the folder's name to explore them.<br>
 <br>
-• I finished this course with an A+ grade.<br>
-• All assignments are done by <b>me</b> during the course, these are not the only way to accomplish it.<br> 
-• All assignments passed the score and were checked<br>
-• Some assignments don't have the stretch challange done since I was lazy hahah, but most do.<br>
-
-Please feel free to make a pull request (changes) if you consider that there is something to update or improve. I tried to do my best and be as tidy as possible.<br>
-
-<b>DISCLAIMER:</b><br>
-• Follow your instructor's advices in EVERY assignment. Before checking for something here, go and ask help to your classmates. They're really cool and are always willing to help<br> 
-• I <strong>DON'T</strong> encourage cheating on assignments, if you are really doing the course it is to learn, and these assignments help you a lot with that.<br>
-• I <strong>REJECT</strong> any charge of encouraging students to cheat, knowing that it is against <a href="https://dfkpq46c1l9o7.cloudfront.net/pdfs/148e250c14f5be811f0c42353b9d46dc.pdf">BYU's Honor Code.</a><br>
-• This repository has the purpose that, if any student feels stuck in a task, he can have an idea of what steps to take and how the operation is carried out.<br>
-
-This course helped me to realize how much I like programming, and I hope it does the same for you. Try your best to learn, understand, and complete the assignments. It will be a solid foundation for the following courses.
-This is an inspired course from the Church. All the instructors try their best to help us to learn and achieve our goals.
-
-Thanks for reading!<br>
-<a href="https://www.linkedin.com/in/natanael-damatta/">Natanael</a> :)
+📁 For <strong><a href="https://github.com/ndamatta/CSE111-BYU-Idaho/tree/main/For%20STUDENTS">STUDENTS</a></strong>: See the content of the course organized per weeks, as you should see when taking the course at the University.<br>
+📁 For <strong><a href="https://github.com/ndamatta/CSE111-BYU-Idaho/tree/main/For%20PORTFOLIO">PORTFOLIO</a></strong>: See the projects that I coded while taking the course. It demonstrates my knowledge and my ability to code.<br>
+<br>
+If this was helpful, don't hesitate to reach me out in <a href="https://www.linkedin.com/in/natanael-damatta/">Linkedin</a>!<br>
+:)
