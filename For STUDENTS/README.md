@@ -5,7 +5,7 @@
 <br>
 <br>
 <picture><img src="https://img.shields.io/badge/INFORMATION:-blue"></picture><br>
-Here you will find the assignments for <strong>CSE111</strong>, which I hope will be helpful for future students at BYU-Idaho.<br>
+Here you will find the assignments for <strong>CSE110</strong>, which I hope will be helpful for future students at BYU-Idaho.<br>
 
 <ul>
   <li>I successfully completed this course with an <strong>A</strong> grade.</li>
