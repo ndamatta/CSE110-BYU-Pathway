@@ -1,7 +1,7 @@
 <picture><img src="https://github.com/ndamatta/CSE111-BYU-Idaho/assets/105658793/ae948b5f-b9d3-46e5-8df8-002d5c89f2d7" alt="Banner-img"></picture>
 
 # BYU-Idaho: Web and Computer Programming<br> <i>Major: Applied Technology</i>
-<picture><img src="https://img.shields.io/badge/2022-blue?style=for-the-badge&label=JUL"></picture>     <a href="https://www.linkedin.com/in/natanael-damatta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<picture><img src="https://img.shields.io/badge/2022-blue?style=for-the-badge&label=JUL"></picture>     <a href="https://www.linkedin.com/in/natanael-damatta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>     <a href="mailto:damatta.natanael@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <picture><img src="https://github.com/ndamatta/CSE110-BYU-Pathway/assets/105658793/27eabe6f-846c-4fd7-ab35-be4801f97d1c"></picture><br>
 
