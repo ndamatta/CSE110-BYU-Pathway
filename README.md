@@ -9,7 +9,7 @@
 This repository is organized it two folders. You can <strong>click</strong> the folder's name to explore them.<br>
 <br>
 📁 For <strong><a href="https://github.com/ndamatta/CSE110-BYU-Pathway/tree/main/For%20STUDENTS">STUDENTS</a></strong>: See the content of the course organized per weeks, as you should see when taking the course at the University.<br>
-📁 For <strong><a href="https://github.com/ndamatta/CSE110-BYU-Pathway/tree/main/For%20PORTFOLIO">PORTFOLIO</a></strong>: See the projects that I coded while taking the course. It demonstrates my knowledge and my ability to code.<br>
+📁 For <strong><a href="https://github.com/ndamatta/CSE110-BYU-Pathway/tree/main/For%20PORTFOLIO">PORTFOLIO</a></strong>: See the content separated in individual projects. Expalining the process and steps I took to design the programs, demonstrating my ability to code.<br>
 <br>
 If this was helpful, don't hesitate to reach me out in <a href="https://www.linkedin.com/in/natanael-damatta/">Linkedin</a>!<br>
 :)
